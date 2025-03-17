@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Felipe Mattos de Farias
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Backend`**
 
 Me chamo Felipe Mattos de Farias, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Senac, com o curso técnico em informática para internet. Atualmente, estou cursando Sistemas de Informação na UNISINOS. Sou apaixonado por tecnologia e estou sempre buscando ser inovador em minhas soluções Web.
 
