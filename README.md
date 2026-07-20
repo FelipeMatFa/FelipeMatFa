@@ -107,14 +107,14 @@ Me chamo Felipe Mattos de Farias, sou natural do Rio Grande do Sul. Concluí o e
   <tr>
     <td>
       <img
-        height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=FelipeMatFa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=FelipeMatFa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+        height="180"
       />
     </td>
     <td>
       <img
-        height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMatFa&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
+        height="180"
       />
     </td>
   </tr>
