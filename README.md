@@ -100,20 +100,3 @@ Me chamo Felipe Mattos de Farias, sou natural do Rio Grande do Sul. Concluí o e
 
 <br/>
 <br/>
-
-## 📊 Estatísticas
-
-<table>
-<tr>
-<td>
-
-![](https://github-readme-stats.vercel.app/api?username=FelipeMatFa&show_icons=true&theme=tokyonight&hide_border=true)
-
-</td>
-<td>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMatFa&layout=compact&theme=tokyonight&hide_border=true)
-
-</td>
-</tr>
-</table>
