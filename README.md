@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Felipe Mattos de Farias
 
-**`Desenvolvedor Backend`**
+**Desenvolvedor Backend**
 
-Me chamo Felipe Mattos de Farias, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no Senac, com o curso técnico em informática para internet. Atualmente, estou cursando Sistemas de Informação na UNISINOS. Sou apaixonado por tecnologia e estou sempre buscando ser inovador em minhas soluções Web.
+Me chamo Felipe Mattos de Farias, sou natural do Rio Grande do Sul. Concluí o ensino médio no Senac, com o curso técnico em Informática para Internet e atualmente curso Sistemas de Informação na UNISINOS. Sou apaixonado por tecnologia e estou sempre buscando criar soluções Web eficientes e inovadoras.
 
 <p align="left">
     <a href="https://github.com/FelipeMatFa?tab=repositories&sort=stargazers">
@@ -101,22 +101,21 @@ Me chamo Felipe Mattos de Farias, tenho 18 anos e sou natural do Rio Grande do S
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=FelipeMatFa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMatFa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=FelipeMatFa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+      />
+    </td>
+    <td>
+      <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMatFa&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br"
+      />
+    </td>
+  </tr>
+</table>
